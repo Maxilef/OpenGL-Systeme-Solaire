@@ -1,3 +1,3 @@
 # OpenGL-Systeme-Solaire
 
-reprensaentation du systeme solaire avec opengl 
+reprensentation du systeme solaire avec opengl 
