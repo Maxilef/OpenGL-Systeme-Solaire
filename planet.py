@@ -21,7 +21,6 @@ import numpy as np
 
 
 
-
 ###############################################################
 # variables globales
 year, day = 0, 0
